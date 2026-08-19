@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chunket.github.io/notes-77q0fs/sitemap.xml
